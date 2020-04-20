@@ -7,7 +7,7 @@ Licence:
 for personal use only
 
 Instalation:
-
+\n
 Download and unpack all files. Copy them a new directory.
 
 Filelist in Direcory should be something like:

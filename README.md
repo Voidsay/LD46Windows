@@ -1,5 +1,8 @@
 # LD46Windows
 
+
+Just go to https://voidsay.itch.io/dr-statnils-dodo-egg and download it there!
+
 Windows executable for Ludumdare 46.
 
 Licence:

@@ -23,5 +23,10 @@ UnityPlayer.dll
 LD46_Data
 
 
-Tested on: 
+Tested on:
+
 Windows 10 Pro 64 Bit
+
+Everything was compiled on Linux and the name of the exe broke. It's called "LD46", but is still "Dr. Statnil's Dodo Egg"
+
+works anyway
